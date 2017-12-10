@@ -1,3 +1,5 @@
+/* Tag CSS */
+
 body{
 	margin: 20px;
 	background-color: #FFDD77;
@@ -13,4 +15,11 @@ div{
 	font-weight: bold;
 	margin: 25px;
 	padding: 25px;
+}
+
+/* Class CSS */
+
+.profilePicture{
+	height: 30%;
+	width: 30%;
 }
