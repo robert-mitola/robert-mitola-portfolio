@@ -7,7 +7,9 @@ body{
 	text-align: center;
 }
 
-div{
+/* Class CSS */
+
+.description{
 	border-style: dashed;
 	border-color: #BA9935;
 	text-align: justify;
@@ -17,9 +19,10 @@ div{
 	padding: 25px;
 }
 
-/* Class CSS */
-
 .profilePicture{
-	height: 30%;
-	width: 30%;
+	display: inline-block;
+	max-width: 199px;
+	max-height: 199px;
+	width: auto;
+	height: auto;
 }
