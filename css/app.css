@@ -7,6 +7,16 @@ body{
 	text-align: center;
 }
 
+iframe{
+	width: 560px; 
+	height: 315px; 
+}
+
+video{
+	width: 320px;
+	height: 180px;
+}
+
 /* Class CSS */
 
 .description{
@@ -17,6 +27,7 @@ body{
 	font-weight: bold;
 	margin: 25px;
 	padding: 25px;
+	overflow: hidden;
 }
 
 .profilePicture{
