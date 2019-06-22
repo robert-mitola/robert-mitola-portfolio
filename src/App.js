@@ -72,7 +72,7 @@ class App extends React.Component {
       <main role="main" className="inner cover">
       <h1 className="cover-heading">Rob Mitola</h1>
       <p className="lead">
-      <i>All prints available for an affordable price of $5,001.37. Financing available for exceptional credit.</i>
+      <i>Welcome to my portfolio space.</i>
       </p>
       <p
         className="lead"
