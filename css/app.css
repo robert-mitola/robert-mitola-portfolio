@@ -1,0 +1,39 @@
+/* Tag CSS */
+
+body{
+	margin: 20px;
+	background-color: #FFDD77;
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+
+iframe{
+	width: 560px; 
+	height: 315px; 
+}
+
+video{
+	width: 320px;
+	height: 180px;
+}
+
+/* Class CSS */
+
+.description{
+	border-style: dashed;
+	border-color: #BA9935;
+	text-align: justify;
+	text-justify: inter-word;
+	font-weight: bold;
+	margin: 25px;
+	padding: 25px;
+	overflow: hidden;
+}
+
+.profilePicture{
+	display: inline-block;
+	max-width: 199px;
+	max-height: 199px;
+	width: auto;
+	height: auto;
+}
